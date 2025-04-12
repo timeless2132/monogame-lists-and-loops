@@ -62,7 +62,7 @@ namespace monogame_lists_and_loops
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // TODO: use this.Content to load your game content here
-            spaceBackgroundTexture = Content.Load<Texture2D>("Images/space_background");
+            spaceBackgroundTexture = Content.Load<Texture2D>("Images/dust2");
 
             for (int i = 1; i < 14; i++) 
             {

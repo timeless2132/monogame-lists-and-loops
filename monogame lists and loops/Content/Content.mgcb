@@ -121,7 +121,7 @@
 /processorParam:TextureFormat=Color
 /build:Images/16-bit-planet/16-bit-planet5.png
 
-#begin Images/16-bit-planet/16-bit-planet6.png
+#begin Images/16-bit-planet/16-bit-planet6.webp
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -131,9 +131,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Images/16-bit-planet/16-bit-planet6.png
+/build:Images/16-bit-planet/16-bit-planet6.webp
 
-#begin Images/16-bit-planet/16-bit-planet7.png
+#begin Images/16-bit-planet/16-bit-planet7.webp
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -143,7 +143,7 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Images/16-bit-planet/16-bit-planet7.png
+/build:Images/16-bit-planet/16-bit-planet7.webp
 
 #begin Images/16-bit-planet/16-bit-planet8.png
 /importer:TextureImporter
@@ -181,7 +181,7 @@
 /processorParam:TextureFormat=Color
 /build:Images/button.png
 
-#begin Images/space_background.jpg
+#begin Images/dust2.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -191,5 +191,5 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Images/space_background.jpg
+/build:Images/dust2.png
 
